@@ -1,0 +1,9 @@
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.deps.json
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.runtimeconfig.json
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.runtimeconfig.dev.json
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.dll
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.pdb
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.csprojResolveAssemblyReference.cache
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.AssemblyInfo.cs
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.dll
+C:\Users\Devon\Documents\GitHub\RestfulAPIExample\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.pdb
